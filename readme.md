@@ -1,4 +1,3 @@
-## Hello, Git!
-## My name is Hamza.
+## Heyoo everyone, welcome to my git!
 
 - I'm adding this from feature branch.
